@@ -236,25 +236,20 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "https://www.xb6v.com/"
-        },
-        {
-            "key": "新6V_自訂選單",
-            "name": "🧲新6V",
-            "type": 3,
-            "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-            "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/6v.js",
             "categories": [
                 "最新50部",
-                "电影",
-                "电视剧",
-                "动画片",
-                "综艺",
-                "纪录片"
-            ],
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
+                "喜劇片",
+                "動作片",
+                "愛情片",
+                "科幻片",
+                "恐怖片",
+                "劇情片",
+                "戰爭片",
+                "紀錄片",
+                "動畫片",
+                "電視劇",
+                "綜藝"
+              ]
         }
        
     ]
