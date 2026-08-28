@@ -246,7 +246,26 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "https://www.xb6v.com/"
-        }
+        },
+        {
+            "key": "新6V_自訂選單",
+            "name": "🧲新6V┃磁力",
+            "type": 3,
+            "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+            "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/6v.js",
+            "categories": [
+                "最新50部",
+                "电影",
+                "电视剧",
+                "动画片",
+                "综艺",
+                "纪录片"
+            ],
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
        
     ]
 }
