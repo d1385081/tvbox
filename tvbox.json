@@ -5,7 +5,7 @@
     "sites": [
         {
             "key": "点我切源",
-            "name": "<8.25更新> 修复动漫  看球",
+            "name": "首頁",
             "type": 3,
             "api": "csp_DouDouGuard",
             "indexs": 1,
@@ -170,18 +170,6 @@
             "changeable": 0,
             "ext": "https://www.xb6v.com/"
         },
-        {
-            "key": "新6V",
-            "name": "🧲新6V┃",
-            "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/d1385081/tvbox/refs/heads/main/6v.js",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-       
         {
             "key": "cc",
             "name": "请勿信视频中任何广告",
