@@ -249,7 +249,7 @@
         },
         {
             "key": "新6V_自訂選單",
-            "name": "🧲新6V┃磁力",
+            "name": "🧲新6V",
             "type": 3,
             "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
             "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/6v.js",
