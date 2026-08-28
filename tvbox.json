@@ -251,7 +251,7 @@
             "key": "新6V",
             "name": "🧲新6V┃",
             "type": 3,
-            "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
             "ext": "https://raw.githubusercontent.com/d1385081/tvbox/refs/heads/main/6v.js",
             "timeout": 10,
             "searchable": 1,
