@@ -4,16 +4,6 @@
     "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
     "sites": [
         {
-            "key": "点我切源",
-            "name": "<8.25更新> 修复动漫  看球",
-            "type": 3,
-            "api": "csp_DouDouGuard",
-            "indexs": 1,
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
             "key": "MDrive",
             "name": "🗂我的云盘┃我配置",
             "type": 3,
@@ -265,7 +255,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0
-        },
+        }
        
     ]
 }
